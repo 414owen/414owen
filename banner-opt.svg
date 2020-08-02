@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 150">
  <defs>
-  <linearGradient id="c" x1="-4.81" x2="404.11" y1="224.57" y2="224.57" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#ddc4ff"/>
-   <stop offset="1" stop-color="#ffff01"/>
+  <linearGradient id="c" x1="-5" x2="404" y1="224" y2="224" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#f0cfff"/>
+   <stop offset="1" stop-color="#ffff3a"/>
   </linearGradient>
-  <linearGradient id="d" x1="329.81" x2="264.6" y1="331.48" y2="7.01" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#7d9ef6" stop-opacity=".84"/>
-   <stop offset="1" stop-color="#ff0001" stop-opacity=".01"/>
+  <linearGradient id="d" x1="329" x2="264" y1="331" y2="7" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#9cb9f6" stop-opacity=".84"/>
+   <stop offset="1" stop-color="#ff4f4c" stop-opacity=".01"/>
   </linearGradient>
-  <linearGradient id="b" x1="264.06" x2="393.42" y1="392.42" y2="148.67" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#ff9e00" stop-opacity=".4"/>
-   <stop offset="1" stop-color="#47ff00" stop-opacity=".06"/>
+  <linearGradient id="b" x1="189" x2="253" y1="60" y2="246" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#ff5e00" stop-opacity=".4"/>
+   <stop offset="1" stop-color="#bf9" stop-opacity=".06"/>
   </linearGradient>
   <clipPath id="e">
    <path d="M0 0h300v150H0z"/>
